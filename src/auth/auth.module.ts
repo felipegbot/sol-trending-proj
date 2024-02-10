@@ -2,7 +2,6 @@ import { Module } from '@nestjs/common';
 import { JwtModule } from '@nestjs/jwt';
 import { PassportModule } from '@nestjs/passport';
 import { JwtStrategy } from './strategies/jwt.strategy';
-import { Logger } from '@/common/helpers/logger.helper';
 
 @Module({
   imports: [
@@ -14,7 +13,6 @@ import { Logger } from '@/common/helpers/logger.helper';
   ],
   providers: [
     JwtStrategy,
-    Logger,
   ],
 })
 export class AuthModule {
