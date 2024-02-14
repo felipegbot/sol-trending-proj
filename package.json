@@ -29,6 +29,7 @@
     "@nestjs/jwt": "^10.2.0",
     "@nestjs/passport": "^10.0.3",
     "@nestjs/platform-express": "^10.0.0",
+    "@shyft-to/js": "^0.2.34",
     "axios": "^1.6.7",
     "bcryptjs": "^2.4.3",
     "class-validator": "^0.14.1",

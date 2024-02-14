@@ -1,54 +1,9 @@
-# 889510358 (2024-02-10T17:19:54.068Z)
+# 889510522 (2024-02-14T00:27:48.431Z)
 
 {
-  "update_id": 889510358,
-  "callback_query": {
-    "id": "8997980131110149022",
-    "from": {
-      "id": 6389972801,
-      "is_bot": false,
-      "first_name": "Fehra",
-      "username": "f3hra",
-      "language_code": "pt-br"
-    },
-    "message": {
-      "message_id": 51,
-      "from": {
-        "id": 6770696301,
-        "is_bot": true,
-        "first_name": "testbot",
-        "username": "MeuNovoTestBot"
-      },
-      "chat": {
-        "id": 6389972801,
-        "first_name": "Fehra",
-        "username": "f3hra",
-        "type": "private"
-      },
-      "date": 1707585590,
-      "text": "Hello, teste!",
-      "reply_markup": {
-        "inline_keyboard": [
-          [
-            {
-              "text": "Leave scope",
-              "callback_data": "leave"
-            }
-          ]
-        ]
-      }
-    },
-    "chat_instance": "6499586778389601245",
-    "data": "leave"
-  }
-}
-
-# 889510357 (2024-02-10T17:19:49.838Z)
-
-{
-  "update_id": 889510357,
+  "update_id": 889510522,
   "message": {
-    "message_id": 50,
+    "message_id": 284,
     "from": {
       "id": 6389972801,
       "is_bot": false,
@@ -62,17 +17,17 @@
       "username": "f3hra",
       "type": "private"
     },
-    "date": 1707585588,
-    "text": "teste"
+    "date": 1707870468,
+    "text": "token 3xkAnBJ8SaizHhwhtGj4qGVp8xDHZSg4Dh8VToMwLhb2"
   }
 }
 
-# 889510356 (2024-02-10T17:19:42.610Z)
+# 889510521 (2024-02-14T00:27:43.435Z)
 
 {
-  "update_id": 889510356,
-  "callback_query": {
-    "id": "8997980129652087720",
+  "update_id": 889510521,
+  "message": {
+    "message_id": 282,
     "from": {
       "id": 6389972801,
       "is_bot": false,
@@ -80,45 +35,31 @@
       "username": "f3hra",
       "language_code": "pt-br"
     },
-    "message": {
-      "message_id": 48,
-      "from": {
-        "id": 6770696301,
-        "is_bot": true,
-        "first_name": "testbot",
-        "username": "MeuNovoTestBot"
-      },
-      "chat": {
-        "id": 6389972801,
-        "first_name": "Fehra",
-        "username": "f3hra",
-        "type": "private"
-      },
-      "date": 1707585549,
-      "text": "Hello! Do you want to enter your name?",
-      "reply_markup": {
-        "inline_keyboard": [
-          [
-            {
-              "text": "Enter my name",
-              "callback_data": "scope"
-            }
-          ]
-        ]
-      }
+    "chat": {
+      "id": 6389972801,
+      "first_name": "Fehra",
+      "username": "f3hra",
+      "type": "private"
     },
-    "chat_instance": "6499586778389601245",
-    "data": "scope"
+    "date": 1707870462,
+    "text": "/start",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 6,
+        "type": "bot_command"
+      }
+    ]
   },
   "__scopeEntered": true
 }
 
-# 889510354 (2024-02-10T17:19:08.038Z)
+# 889510521 (2024-02-14T00:27:42.482Z)
 
 {
-  "update_id": 889510354,
+  "update_id": 889510521,
   "message": {
-    "message_id": 47,
+    "message_id": 282,
     "from": {
       "id": 6389972801,
       "is_bot": false,
@@ -132,7 +73,7 @@
       "username": "f3hra",
       "type": "private"
     },
-    "date": 1707585546,
+    "date": 1707870462,
     "text": "/start",
     "entities": [
       {
@@ -144,12 +85,12 @@
   }
 }
 
-# 889510353 (2024-02-10T17:18:33.627Z)
+# 889510520 (2024-02-14T00:26:53.534Z)
 
 {
-  "update_id": 889510353,
+  "update_id": 889510520,
   "message": {
-    "message_id": 45,
+    "message_id": 279,
     "from": {
       "id": 6389972801,
       "is_bot": false,
@@ -163,7 +104,87 @@
       "username": "f3hra",
       "type": "private"
     },
-    "date": 1707585513,
+    "date": 1707870412,
+    "text": "token 3xkAnBJ8SaizHhwhtGj4qGVp8xDHZSg4Dh8VToMwLhb2"
+  }
+}
+
+# 889510519 (2024-02-14T00:26:47.689Z)
+
+{
+  "update_id": 889510519,
+  "message": {
+    "message_id": 277,
+    "from": {
+      "id": 6389972801,
+      "is_bot": false,
+      "first_name": "Fehra",
+      "username": "f3hra",
+      "language_code": "pt-br"
+    },
+    "chat": {
+      "id": 6389972801,
+      "first_name": "Fehra",
+      "username": "f3hra",
+      "type": "private"
+    },
+    "date": 1707870407,
+    "text": "token  3xkAnBJ8SaizHhwhtGj4qGVp8xDHZSg4Dh8VToMwLhb2"
+  }
+}
+
+# 889510518 (2024-02-14T00:26:35.824Z)
+
+{
+  "update_id": 889510518,
+  "message": {
+    "message_id": 275,
+    "from": {
+      "id": 6389972801,
+      "is_bot": false,
+      "first_name": "Fehra",
+      "username": "f3hra",
+      "language_code": "pt-br"
+    },
+    "chat": {
+      "id": 6389972801,
+      "first_name": "Fehra",
+      "username": "f3hra",
+      "type": "private"
+    },
+    "date": 1707870393,
+    "text": "/start",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 6,
+        "type": "bot_command"
+      }
+    ]
+  },
+  "__scopeEntered": true
+}
+
+# 889510518 (2024-02-14T00:26:34.839Z)
+
+{
+  "update_id": 889510518,
+  "message": {
+    "message_id": 275,
+    "from": {
+      "id": 6389972801,
+      "is_bot": false,
+      "first_name": "Fehra",
+      "username": "f3hra",
+      "language_code": "pt-br"
+    },
+    "chat": {
+      "id": 6389972801,
+      "first_name": "Fehra",
+      "username": "f3hra",
+      "type": "private"
+    },
+    "date": 1707870393,
     "text": "/start",
     "entities": [
       {
@@ -175,12 +196,12 @@
   }
 }
 
-# 889510352 (2024-02-10T17:09:30.076Z)
+# 889510517 (2024-02-14T00:25:48.856Z)
 
 {
-  "update_id": 889510352,
+  "update_id": 889510517,
   "message": {
-    "message_id": 43,
+    "message_id": 273,
     "from": {
       "id": 6389972801,
       "is_bot": false,
@@ -194,7 +215,63 @@
       "username": "f3hra",
       "type": "private"
     },
-    "date": 1707584969,
+    "date": 1707870348,
+    "text": "token 3xkAnBJ8SaizHhwhtGj4qGVp8xDHZSg4Dh8VToMwLhb2"
+  }
+}
+
+# 889510516 (2024-02-14T00:25:47.538Z)
+
+{
+  "update_id": 889510516,
+  "message": {
+    "message_id": 271,
+    "from": {
+      "id": 6389972801,
+      "is_bot": false,
+      "first_name": "Fehra",
+      "username": "f3hra",
+      "language_code": "pt-br"
+    },
+    "chat": {
+      "id": 6389972801,
+      "first_name": "Fehra",
+      "username": "f3hra",
+      "type": "private"
+    },
+    "date": 1707870345,
+    "text": "/start",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 6,
+        "type": "bot_command"
+      }
+    ]
+  },
+  "__scopeEntered": true
+}
+
+# 889510516 (2024-02-14T00:25:46.487Z)
+
+{
+  "update_id": 889510516,
+  "message": {
+    "message_id": 271,
+    "from": {
+      "id": 6389972801,
+      "is_bot": false,
+      "first_name": "Fehra",
+      "username": "f3hra",
+      "language_code": "pt-br"
+    },
+    "chat": {
+      "id": 6389972801,
+      "first_name": "Fehra",
+      "username": "f3hra",
+      "type": "private"
+    },
+    "date": 1707870345,
     "text": "/start",
     "entities": [
       {
@@ -206,12 +283,12 @@
   }
 }
 
-# 889510351 (2024-02-10T17:09:27.013Z)
+# 889510515 (2024-02-14T00:25:12.517Z)
 
 {
-  "update_id": 889510351,
+  "update_id": 889510515,
   "message": {
-    "message_id": 41,
+    "message_id": 268,
     "from": {
       "id": 6389972801,
       "is_bot": false,
@@ -225,7 +302,63 @@
       "username": "f3hra",
       "type": "private"
     },
-    "date": 1707584966,
+    "date": 1707870312,
+    "text": "token 3xkAnBJ8SaizHhwhtGj4qGVp8xDHZSg4Dh8VToMwLhb2"
+  }
+}
+
+# 889510514 (2024-02-14T00:25:06.118Z)
+
+{
+  "update_id": 889510514,
+  "message": {
+    "message_id": 266,
+    "from": {
+      "id": 6389972801,
+      "is_bot": false,
+      "first_name": "Fehra",
+      "username": "f3hra",
+      "language_code": "pt-br"
+    },
+    "chat": {
+      "id": 6389972801,
+      "first_name": "Fehra",
+      "username": "f3hra",
+      "type": "private"
+    },
+    "date": 1707870304,
+    "text": "/start",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 6,
+        "type": "bot_command"
+      }
+    ]
+  },
+  "__scopeEntered": true
+}
+
+# 889510514 (2024-02-14T00:25:05.091Z)
+
+{
+  "update_id": 889510514,
+  "message": {
+    "message_id": 266,
+    "from": {
+      "id": 6389972801,
+      "is_bot": false,
+      "first_name": "Fehra",
+      "username": "f3hra",
+      "language_code": "pt-br"
+    },
+    "chat": {
+      "id": 6389972801,
+      "first_name": "Fehra",
+      "username": "f3hra",
+      "type": "private"
+    },
+    "date": 1707870304,
     "text": "/start",
     "entities": [
       {
@@ -237,12 +370,12 @@
   }
 }
 
-# 889510350 (2024-02-10T17:09:09.287Z)
+# 889510512 (2024-02-13T15:46:54.801Z)
 
 {
-  "update_id": 889510350,
+  "update_id": 889510512,
   "message": {
-    "message_id": 39,
+    "message_id": 263,
     "from": {
       "id": 6389972801,
       "is_bot": false,
@@ -256,17 +389,17 @@
       "username": "f3hra",
       "type": "private"
     },
-    "date": 1707584948,
-    "text": "ola"
+    "date": 1707839214,
+    "text": "token 3xkAnBJ8SaizHhwhtGj4qGVp8xDHZSg4Dh8VToMwLhb2"
   }
 }
 
-# 889510349 (2024-02-10T17:09:05.158Z)
+# 889510511 (2024-02-13T15:36:44.775Z)
 
 {
-  "update_id": 889510349,
+  "update_id": 889510511,
   "message": {
-    "message_id": 37,
+    "message_id": 260,
     "from": {
       "id": 6389972801,
       "is_bot": false,
@@ -280,8 +413,32 @@
       "username": "f3hra",
       "type": "private"
     },
-    "date": 1707584944,
-    "text": "/teste",
+    "date": 1707838603,
+    "text": "token 3xkAnBJ8SaizHhwhtGj4qGVp8xDHZSg4Dh8VToMwLhb2"
+  }
+}
+
+# 889510510 (2024-02-13T15:36:33.717Z)
+
+{
+  "update_id": 889510510,
+  "message": {
+    "message_id": 258,
+    "from": {
+      "id": 6389972801,
+      "is_bot": false,
+      "first_name": "Fehra",
+      "username": "f3hra",
+      "language_code": "pt-br"
+    },
+    "chat": {
+      "id": 6389972801,
+      "first_name": "Fehra",
+      "username": "f3hra",
+      "type": "private"
+    },
+    "date": 1707838592,
+    "text": "/start",
     "entities": [
       {
         "offset": 0,
@@ -289,15 +446,16 @@
         "type": "bot_command"
       }
     ]
-  }
+  },
+  "__scopeEntered": true
 }
 
-# 889510348 (2024-02-10T16:43:24.041Z)
+# 889510510 (2024-02-13T15:36:32.596Z)
 
 {
-  "update_id": 889510348,
+  "update_id": 889510510,
   "message": {
-    "message_id": 36,
+    "message_id": 258,
     "from": {
       "id": 6389972801,
       "is_bot": false,
@@ -311,7 +469,7 @@
       "username": "f3hra",
       "type": "private"
     },
-    "date": 1707583402,
+    "date": 1707838592,
     "text": "/start",
     "entities": [
       {
@@ -323,12 +481,12 @@
   }
 }
 
-# 889510346 (2024-02-10T16:38:13.195Z)
+# 889510509 (2024-02-13T15:34:47.630Z)
 
 {
-  "update_id": 889510346,
+  "update_id": 889510509,
   "message": {
-    "message_id": 33,
+    "message_id": 256,
     "from": {
       "id": 6389972801,
       "is_bot": false,
@@ -342,138 +500,7 @@
       "username": "f3hra",
       "type": "private"
     },
-    "date": 1707583092,
-    "text": "/dasa",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 5,
-        "type": "bot_command"
-      }
-    ]
-  }
-}
-
-# 889510345 (2024-02-10T15:05:21.777Z)
-
-{
-  "update_id": 889510345,
-  "message": {
-    "message_id": 32,
-    "from": {
-      "id": 6389972801,
-      "is_bot": false,
-      "first_name": "Fehra",
-      "username": "f3hra",
-      "language_code": "pt-br"
-    },
-    "chat": {
-      "id": 6389972801,
-      "first_name": "Fehra",
-      "username": "f3hra",
-      "type": "private"
-    },
-    "date": 1707577521,
-    "text": "/start",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 6,
-        "type": "bot_command"
-      }
-    ]
-  }
-}
-
-# 889510344 (2024-02-10T14:56:57.468Z)
-
-{
-  "update_id": 889510344,
-  "message": {
-    "message_id": 31,
-    "from": {
-      "id": 6389972801,
-      "is_bot": false,
-      "first_name": "Fehra",
-      "username": "f3hra",
-      "language_code": "pt-br"
-    },
-    "chat": {
-      "id": 6389972801,
-      "first_name": "Fehra",
-      "username": "f3hra",
-      "type": "private"
-    },
-    "date": 1707577009,
-    "text": "/start",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 6,
-        "type": "bot_command"
-      }
-    ]
-  }
-}
-
-# 889510343 (2024-02-10T14:56:44.563Z)
-
-{
-  "update_id": 889510343,
-  "message": {
-    "message_id": 30,
-    "from": {
-      "id": 6389972801,
-      "is_bot": false,
-      "first_name": "Fehra",
-      "username": "f3hra",
-      "language_code": "pt-br"
-    },
-    "chat": {
-      "id": 6389972801,
-      "first_name": "Fehra",
-      "username": "f3hra",
-      "type": "private"
-    },
-    "date": 1707576919,
-    "text": "/start",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 6,
-        "type": "bot_command"
-      }
-    ]
-  }
-}
-
-# 889510342 (2024-02-10T14:55:00.424Z)
-
-{
-  "update_id": 889510342,
-  "message": {
-    "message_id": 29,
-    "from": {
-      "id": 6389972801,
-      "is_bot": false,
-      "first_name": "Fehra",
-      "username": "f3hra",
-      "language_code": "pt-br"
-    },
-    "chat": {
-      "id": 6389972801,
-      "first_name": "Fehra",
-      "username": "f3hra",
-      "type": "private"
-    },
-    "date": 1707576900,
-    "text": "/start",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 6,
-        "type": "bot_command"
-      }
-    ]
+    "date": 1707838487,
+    "text": "token 3xkAnBJ8SaizHhwhtGj4qGVp8xDHZSg4Dh8VToMwLhb2"
   }
 }

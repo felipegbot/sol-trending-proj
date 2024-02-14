@@ -1,24 +1,13 @@
 import { Answer, Controller, GetAnswer, GetAnswerContext, Keyboard, KeyboardTypes, MessageSend, OnClick, OnCommand, OnText } from 'nestgram';
-
 @Controller()
 export class TelegramController {
-  @GetAnswerContext() answer: Answer;
+
   @OnCommand('start')
   async start(@GetAnswer() answer: Answer) {
-    try {
-      return new MessageSend(
-        'Hello! Do you want to enter your name?',
-        new Keyboard(KeyboardTypes.underTheMessage)
-          .btn('Enter my name', 'token'),
-      );
-    } catch (e) {
-      console.error(e);
-    }
-  }
+    await answer.send(`Welcome to the FehraTrendingBot\n
+*This is a project still in development, by far we only support the SOLANA chain*\n\nto proceed, send me the token address you want to insert in FehraTrending following the format: `+ "`token <token-address>`" + ` and we will check the security`,
+      new Keyboard(), { parse_mode: 'MarkdownV2' });
+    answer.scope('token');
 
-  @OnClick('scope')
-  async enterScope(@GetAnswer() answer: Answer) {
-    await answer.scope('token');
-    return 'Enter your name';
   }
 }
